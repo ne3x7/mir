@@ -5,4 +5,4 @@ The idea of the project is to make a working classifier for musical compositions
 
 I was able to achieve up to 80% quality on three classes. However, the answers of the algorithm seem off-balance, so further work is needed.
 
-The paper and a presentation are attached as pdf.
+The [paper][https://github.com/ne3x7/mir/blob/master/mir.pdf] and a [presentation][https://github.com/ne3x7/mir/blob/master/klassifikatsiia-kompozitsii.pdf] are attached as pdf.
